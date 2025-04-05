@@ -1,5 +1,3 @@
----
-
 # 🍓 BlendBerry – Open Remote Config Platform
 
 **BlendBerry** is a fully open-source alternative to remote configuration platforms like Firebase Remote Config, designed to be **self-hostable**, **flexible**, and accessible to **everyone**, regardless of region or network limitations.
@@ -111,5 +109,3 @@ Whether you’re an indie dev, open-source enthusiast, or an organization seekin
 
 **Host it yourself. Customize it freely. Use it anywhere.**  
 No restrictions. Just remote config, reimagined.
-
----
